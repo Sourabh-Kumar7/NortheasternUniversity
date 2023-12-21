@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EduNet/lib/jcommon-1.0.8/source"/>
+	<classpathentry kind="src" path="EduNet/src"/>
+	<classpathentry kind="lib" path="EduNet/dist/EduNet.jar"/>
+	<classpathentry kind="lib" path="EduNet/dist/lib/bcprov-ext-jdk18on-176.jar"/>
+	<classpathentry kind="lib" path="EduNet/dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="EduNet/dist/lib/jcommon-1.0.8.jar"/>
+	<classpathentry kind="lib" path="EduNet/dist/lib/jfreechart-1.5.4.jar"/>
+	<classpathentry kind="lib" path="EduNet/dist/lib/pdfbox-app-3.0.0.jar"/>
+	<classpathentry kind="lib" path="EduNet/lib/bcprov-ext-jdk18on-176.jar"/>
+	<classpathentry kind="lib" path="EduNet/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="EduNet/lib/jcommon-1.0.8/jcommon-1.0.8.jar"/>
+	<classpathentry kind="lib" path="EduNet/lib/jcommon-1.0.8/jcommon-1.0.8-junit.jar"/>
+	<classpathentry kind="lib" path="EduNet/lib/jcommon-1.0.8/jcommon-xml-1.0.8.jar"/>
+	<classpathentry kind="lib" path="EduNet/lib/jcommon-1.0.8/lib/junit.jar"/>
+	<classpathentry kind="lib" path="EduNet/lib/jfreechart-1.5.4.jar"/>
+	<classpathentry kind="lib" path="EduNet/lib/pdfbox-app-3.0.0.jar"/>
+	<classpathentry kind="output" path="EduNet/build/classes"/>
+</classpath>
