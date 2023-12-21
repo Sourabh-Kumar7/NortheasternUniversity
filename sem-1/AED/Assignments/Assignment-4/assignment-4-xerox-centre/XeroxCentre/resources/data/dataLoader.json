@@ -1,0 +1,945 @@
+{
+    "Supplier Owner": [
+        {
+            "userDetails": {
+                "name": "Eva Green",
+                "email": "eva.green@example.com",
+                "gender": "Female",
+                "dateOfBirth": "1995-03-10",
+                "username": "eva_green",
+                "password": "password456",
+                "userType": "Supplier Owner",
+                "phoneNumber": "7778889999"
+            },
+            "productCatalog": [
+                {
+                    "name": "Product2",
+                    "floorPrice": 15,
+                    "ceilingPrice": 25,
+                    "targetPrice": 20,
+                    "description": "Description for Product2",
+                    "quantity": 10
+                },
+                {
+                    "name": "Product3",
+                    "floorPrice": 20,
+                    "ceilingPrice": 30,
+                    "targetPrice": 25,
+                    "description": "Description for Product3",
+                    "quantity": 15
+                },
+                {
+                    "name": "Product4",
+                    "floorPrice": 18,
+                    "ceilingPrice": 28,
+                    "targetPrice": 23,
+                    "description": "Description for Product4",
+                    "quantity": 12
+                },
+                {
+                    "name": "Product5",
+                    "floorPrice": 22,
+                    "ceilingPrice": 32,
+                    "targetPrice": 27,
+                    "description": "Description for Product5",
+                    "quantity": 18
+                },
+                {
+                    "name": "Product6",
+                    "floorPrice": 16,
+                    "ceilingPrice": 26,
+                    "targetPrice": 21,
+                    "description": "Description for Product6",
+                    "quantity": 14
+                },
+                {
+                    "name": "Product7",
+                    "floorPrice": 25,
+                    "ceilingPrice": 35,
+                    "targetPrice": 30,
+                    "description": "Description for Product7",
+                    "quantity": 20
+                },
+                {
+                    "name": "Product8",
+                    "floorPrice": 19,
+                    "ceilingPrice": 29,
+                    "targetPrice": 24,
+                    "description": "Description for Product8",
+                    "quantity": 16
+                },
+                {
+                    "name": "Product9",
+                    "floorPrice": 21,
+                    "ceilingPrice": 31,
+                    "targetPrice": 26,
+                    "description": "Description for Product9",
+                    "quantity": 22
+                },
+                {
+                    "name": "Product10",
+                    "floorPrice": 17,
+                    "ceilingPrice": 27,
+                    "targetPrice": 22,
+                    "description": "Description for Product10",
+                    "quantity": 17
+                },
+                {
+                    "name": "Product11",
+                    "floorPrice": 23,
+                    "ceilingPrice": 33,
+                    "targetPrice": 28,
+                    "description": "Description for Product11",
+                    "quantity": 19
+                },
+                {
+                    "name": "Product12",
+                    "floorPrice": 24,
+                    "ceilingPrice": 34,
+                    "targetPrice": 29,
+                    "description": "Description for Product12",
+                    "quantity": 21
+                },
+                {
+                    "name": "Product13",
+                    "floorPrice": 18,
+                    "ceilingPrice": 28,
+                    "targetPrice": 23,
+                    "description": "Description for Product13",
+                    "quantity": 15
+                },
+                {
+                    "name": "Product14",
+                    "floorPrice": 22,
+                    "ceilingPrice": 32,
+                    "targetPrice": 27,
+                    "description": "Description for Product14",
+                    "quantity": 23
+                },
+                {
+                    "name": "Product15",
+                    "floorPrice": 16,
+                    "ceilingPrice": 26,
+                    "targetPrice": 21,
+                    "description": "Description for Product15",
+                    "quantity": 18
+                },
+                {
+                    "name": "Product16",
+                    "floorPrice": 25,
+                    "ceilingPrice": 35,
+                    "targetPrice": 30,
+                    "description": "Description for Product16",
+                    "quantity": 20
+                },
+                {
+                    "name": "Product17",
+                    "floorPrice": 19,
+                    "ceilingPrice": 29,
+                    "targetPrice": 24,
+                    "description": "Description for Product17",
+                    "quantity": 16
+                },
+                {
+                    "name": "Product18",
+                    "floorPrice": 21,
+                    "ceilingPrice": 31,
+                    "targetPrice": 26,
+                    "description": "Description for Product18",
+                    "quantity": 22
+                },
+                {
+                    "name": "Product19",
+                    "floorPrice": 17,
+                    "ceilingPrice": 27,
+                    "targetPrice": 22,
+                    "description": "Description for Product19",
+                    "quantity": 17
+                },
+                {
+                    "name": "Product20",
+                    "floorPrice": 23,
+                    "ceilingPrice": 33,
+                    "targetPrice": 28,
+                    "description": "Description for Product20",
+                    "quantity": 19
+                }
+            ]
+        },
+        {
+            "userDetails": {
+                "name": "John Smith",
+                "email": "john.smith@example.com",
+                "gender": "Male",
+                "dateOfBirth": "1988-07-20",
+                "username": "john_smith",
+                "password": "supplierpass1",
+                "userType": "Supplier Owner",
+                "phoneNumber": "5556667777"
+            },
+            "productCatalog": [
+                {
+                    "name": "Product21",
+                    "floorPrice": 14,
+                    "ceilingPrice": 24,
+                    "targetPrice": 19,
+                    "description": "Description for Product21",
+                    "quantity": 11
+                },
+                {
+                    "name": "Product22",
+                    "floorPrice": 19,
+                    "ceilingPrice": 29,
+                    "targetPrice": 24,
+                    "description": "Description for Product22",
+                    "quantity": 14
+                }
+            ]
+        },
+        {
+            "userDetails": {
+                "name": "Sophie Miller",
+                "email": "sophie.miller@example.com",
+                "gender": "Female",
+                "dateOfBirth": "1992-05-15",
+                "username": "sophie_miller",
+                "password": "supplierpass2",
+                "userType": "Supplier Owner",
+                "phoneNumber": "8889990000"
+            },
+            "productCatalog": [
+                {
+                    "name": "Product31",
+                    "floorPrice": 15,
+                    "ceilingPrice": 25,
+                    "targetPrice": 20,
+                    "description": "Description for Product31",
+                    "quantity": 10
+                },
+                {
+                    "name": "Product32",
+                    "floorPrice": 20,
+                    "ceilingPrice": 30,
+                    "targetPrice": 25,
+                    "description": "Description for Product32",
+                    "quantity": 15
+                }
+            ]
+        },
+        {
+            "userDetails": {
+                "name": "Alex Johnson",
+                "email": "alex.johnson@example.com",
+                "gender": "Male",
+                "dateOfBirth": "1990-11-05",
+                "username": "alex_j",
+                "password": "alexpass123",
+                "userType": "Supplier Owner",
+                "phoneNumber": "1234567890"
+              },
+              "productCatalog": [
+                {
+                  "name": "Product41",
+                  "floorPrice": 18,
+                  "ceilingPrice": 28,
+                  "targetPrice": 23,
+                  "description": "Description for Product41",
+                  "quantity": 15
+                }
+            ]
+        },
+        {
+            "userDetails": {
+                "name": "Emily Davis",
+                "email": "emily.davis@example.com",
+                "gender": "Female",
+                "dateOfBirth": "1985-09-12",
+                "username": "emily_d",
+                "password": "emilypass456",
+                "userType": "Supplier Owner",
+                "phoneNumber": "9876543210"
+              },
+              "productCatalog": [
+                {
+                  "name": "Product51",
+                  "floorPrice": 22,
+                  "ceilingPrice": 32,
+                  "targetPrice": 27,
+                  "description": "Description for Product51",
+                  "quantity": 18
+                },
+                {
+                    "name": "Product94",
+                    "floorPrice": 19,
+                    "ceilingPrice": 29,
+                    "targetPrice": 24,
+                    "description": "Description for Product94",
+                    "quantity": 16
+                  },
+                  {
+                    "name": "Product95",
+                    "floorPrice": 21,
+                    "ceilingPrice": 31,
+                    "targetPrice": 26,
+                    "description": "Description for Product95",
+                    "quantity": 22
+                  },
+                  {
+                    "name": "Product96",
+                    "floorPrice": 17,
+                    "ceilingPrice": 27,
+                    "targetPrice": 22,
+                    "description": "Description for Product96",
+                    "quantity": 17
+                  }
+                ]
+        },
+        {
+            "userDetails": {
+                "name": "David White",
+                "email": "david.white@example.com",
+                "gender": "Male",
+                "dateOfBirth": "1993-04-30",
+                "username": "david_w",
+                "password": "davidpass789",
+                "userType": "Supplier Owner",
+                "phoneNumber": "1122334455"
+              },
+              "productCatalog": [
+                {
+                  "name": "Product61",
+                  "floorPrice": 16,
+                  "ceilingPrice": 26,
+                  "targetPrice": 21,
+                  "description": "Description for Product61",
+                  "quantity": 14
+                },
+                {
+                    "name": "Product91",
+                    "floorPrice": 22,
+                    "ceilingPrice": 32,
+                    "targetPrice": 27,
+                    "description": "Description for Product91",
+                    "quantity": 23
+                  },
+                  {
+                    "name": "Product92",
+                    "floorPrice": 16,
+                    "ceilingPrice": 26,
+                    "targetPrice": 21,
+                    "description": "Description for Product92",
+                    "quantity": 18
+                  },
+                  {
+                    "name": "Product93",
+                    "floorPrice": 25,
+                    "ceilingPrice": 35,
+                    "targetPrice": 30,
+                    "description": "Description for Product93",
+                    "quantity": 20
+                  }
+                ]
+        },
+        {
+            "userDetails": {
+                "name": "Olivia Brown",
+                "email": "olivia.brown@example.com",
+                "gender": "Female",
+                "dateOfBirth": "1987-12-08",
+                "username": "olivia_b",
+                "password": "oliviapass101",
+                "userType": "Supplier Owner",
+                "phoneNumber": "9988776655"
+              },
+              "productCatalog": [
+                {
+                  "name": "Product71",
+                  "floorPrice": 25,
+                  "ceilingPrice": 35,
+                  "targetPrice": 30,
+                  "description": "Description for Product71",
+                  "quantity": 20
+                },
+                {
+                    "name": "Product88",
+                    "floorPrice": 23,
+                    "ceilingPrice": 33,
+                    "targetPrice": 28,
+                    "description": "Description for Product88",
+                    "quantity": 21
+                  },
+                  {
+                    "name": "Product89",
+                    "floorPrice": 24,
+                    "ceilingPrice": 34,
+                    "targetPrice": 29,
+                    "description": "Description for Product89",
+                    "quantity": 23
+                  },
+                  {
+                    "name": "Product90",
+                    "floorPrice": 18,
+                    "ceilingPrice": 28,
+                    "targetPrice": 23,
+                    "description": "Description for Product90",
+                    "quantity": 15
+                  }
+                ]
+
+        },
+        {
+            "userDetails": {
+                "name": "Michael Harris",
+                "email": "michael.harris@example.com",
+                "gender": "Male",
+                "dateOfBirth": "1991-06-25",
+                "username": "michael_h",
+                "password": "michaelpass202",
+                "userType": "Supplier Owner",
+                "phoneNumber": "5544332211"
+              },
+              "productCatalog": [
+                {
+                  "name": "Product81",
+                  "floorPrice": 19,
+                  "ceilingPrice": 29,
+                  "targetPrice": 24,
+                  "description": "Description for Product81",
+                  "quantity": 16
+                },
+                {
+                    "name": "Product86",
+                    "floorPrice": 25,
+                    "ceilingPrice": 35,
+                    "targetPrice": 30,
+                    "description": "Description for Product86",
+                    "quantity": 22
+                  },
+                  {
+                    "name": "Product87",
+                    "floorPrice": 21,
+                    "ceilingPrice": 31,
+                    "targetPrice": 26,
+                    "description": "Description for Product87",
+                    "quantity": 19
+                  }
+                ] 
+        },
+        {
+            "userDetails": {
+                "name": "Emma Turner",
+                "email": "emma.turner@example.com",
+                "gender": "Female",
+                "dateOfBirth": "1989-12-15",
+                "username": "emma_turner",
+                "password": "emmapass123",
+                "userType": "Supplier Owner",
+                "phoneNumber": "9876543210"
+              },
+              "productCatalog": [
+                {
+                    "name": "Product100",
+                    "floorPrice": 22,
+                    "ceilingPrice": 32,
+                    "targetPrice": 27,
+                    "description": "Description for Product100",
+                    "quantity": 23
+                },
+                {
+                    "name": "Product99",
+                    "floorPrice": 18,
+                    "ceilingPrice": 28,
+                    "targetPrice": 23,
+                    "description": "Description for Product99",
+                    "quantity": 15
+                }
+            ]
+        },
+        {
+            "userDetails": {
+                "name": "Daniel Baker",
+                "email": "daniel.baker@example.com",
+                "gender": "Male",
+                "dateOfBirth": "1994-03-18",
+                "username": "daniel_b",
+                "password": "danielpass456",
+                "userType": "Supplier Owner",
+                "phoneNumber": "1234567890"
+        },
+        "productCatalog": [
+            {
+                "name": "Product84",
+                "floorPrice": 22,
+                "ceilingPrice": 32,
+                "targetPrice": 27,
+                "description": "Description for Product84",
+                "quantity": 20
+              },
+              {
+                "name": "Product85",
+                "floorPrice": 16,
+                "ceilingPrice": 26,
+                "targetPrice": 21,
+                "description": "Description for Product85",
+                "quantity": 14
+              }
+        ]
+    }
+        
+
+    ],
+    "Sales Person": [
+        {
+            "userDetails": {
+                "name": "John Doe",
+                "email": "john.doe@example.com",
+                "gender": "Male",
+                "dateOfBirth": "1990-01-01",
+                "username": "john_doe",
+                "password": "password123",
+                "userType": "Sales Person",
+                "phoneNumber": "1234567890"
+            }
+        },
+        {
+            "userDetails": {
+                "name": "Alice Smith",
+                "email": "alice.smith@example.com",
+                "gender": "Female",
+                "dateOfBirth": "1985-05-15",
+                "username": "alice_smith",
+                "password": "securepass",
+                "userType": "Sales Person",
+                "phoneNumber": "9876543210"
+            }
+        },
+        {
+            "userDetails": {
+              "name": "Bob Johnson",
+              "email": "bob.johnson@example.com",
+              "gender": "Male",
+              "dateOfBirth": "1987-03-20",
+              "username": "bob_j",
+              "password": "bobpass123",
+              "userType": "Sales Person",
+              "phoneNumber": "5556667777"
+            }
+          },
+          {
+            "userDetails": {
+              "name": "Eva Rodriguez",
+              "email": "eva.rodriguez@example.com",
+              "gender": "Female",
+              "dateOfBirth": "1993-09-10",
+              "username": "eva_r",
+              "password": "evapass456",
+              "userType": "Sales Person",
+              "phoneNumber": "7778889999"
+            }
+          },
+          {
+            "userDetails": {
+              "name": "Chris Williams",
+              "email": "chris.williams@example.com",
+              "gender": "Male",
+              "dateOfBirth": "1988-06-25",
+              "username": "chris_w",
+              "password": "chrispass789",
+              "userType": "Sales Person",
+              "phoneNumber": "1122334455"
+            }
+          },
+          {
+            "userDetails": {
+              "name": "Sophia Turner",
+              "email": "sophia.turner@example.com",
+              "gender": "Female",
+              "dateOfBirth": "1995-12-08",
+              "username": "sophia_t",
+              "password": "sophiapass101",
+              "userType": "Sales Person",
+              "phoneNumber": "9988776655"
+            }
+          },
+          {
+            "userDetails": {
+              "name": "David Brown",
+              "email": "david.brown@example.com",
+              "gender": "Male",
+              "dateOfBirth": "1986-04-30",
+              "username": "david_b",
+              "password": "davidpass202",
+              "userType": "Sales Person",
+              "phoneNumber": "5544332211"
+            }
+          },
+          {
+            "userDetails": {
+              "name": "Olivia Martinez",
+              "email": "olivia.martinez@example.com",
+              "gender": "Female",
+              "dateOfBirth": "1992-07-15",
+              "username": "olivia_m",
+              "password": "oliviapass303",
+              "userType": "Sales Person",
+              "phoneNumber": "6655443322"
+            }
+          },
+          {
+            "userDetails": {
+              "name": "Mike Lee",
+              "email": "mike.lee@example.com",
+              "gender": "Male",
+              "dateOfBirth": "1994-11-18",
+              "username": "mike_l",
+              "password": "mikepass404",
+              "userType": "Sales Person",
+              "phoneNumber": "7788990011"
+            }
+          },
+          {
+            "userDetails": {
+              "name": "Isabella Wang",
+              "email": "isabella.wang@example.com",
+              "gender": "Female",
+              "dateOfBirth": "1990-02-05",
+              "username": "isabella_w",
+              "password": "isabellapass505",
+              "userType": "Sales Person",
+              "phoneNumber": "8899001122"
+            }
+          }
+    ],
+    "Marketing Person": [
+        {
+            "userDetails": {
+                "name": "Eva Green",
+                "email": "eva.greden@example.com",
+                "gender": "Female",
+                "dateOfBirth": "1995-03-10",
+                "username": "eva_greeen",
+                "password": "password4536",
+                "userType": "Marketing Manager",
+                "phoneNumber": "7778889999"
+            },
+            "markets": [
+                {
+                    "name": "High End",
+                    "description": "Premium market for high-end products"
+                },
+                {
+                    "name": "Low End",
+                    "description": "Budget-friendly market for cost-effective products"
+                },
+                {
+                    "name": "Mid Range",
+                    "description": "Market for moderately priced products"
+                },
+                {
+                    "name": "Luxury",
+                    "description": "Market for luxurious and exclusive products"
+                },
+                {
+                    "name": "Tech Gadgets",
+                    "description": "Market for cutting-edge technology products"
+                },
+                {
+                    "name": "Fashion",
+                    "description": "Market for trendy and fashionable items"
+                },
+                {
+                    "name": "Home Decor",
+                    "description": "Market for home decoration products"
+                },
+                {
+                    "name": "Sports and Fitness",
+                    "description": "Market for sports and fitness-related products"
+                },
+                {
+                    "name": "Books and Literature",
+                    "description": "Market for books and literary works"
+                },
+                {
+                    "name": "Outdoor Adventure",
+                    "description": "Market for outdoor and adventure gear"
+                }
+            ],
+            "channels": [
+                {
+                    "name": "Online",
+                    "description": "Digital platform for online sales"
+                },
+                {
+                    "name": "Offline",
+                    "description": "Traditional brick-and-mortar stores"
+                },
+                {
+                    "name": "Social Media",
+                    "description": "Sales through various social media platforms"
+                },
+                {
+                    "name": "Television",
+                    "description": "Sales through television advertisements"
+                },
+                {
+                    "name": "Radio",
+                    "description": "Sales through radio advertisements"
+                },
+                {
+                    "name": "Pop-up Stores",
+                    "description": "Temporary retail spaces for short-term sales"
+                },
+                {
+                    "name": "E-commerce Platforms",
+                    "description": "Sales through popular e-commerce websites"
+                },
+                {
+                    "name": "Mobile Apps",
+                    "description": "Sales through dedicated mobile applications"
+                },
+                {
+                    "name": "Special Events",
+                    "description": "Sales at special promotional events"
+                },
+                {
+                    "name": "Affiliate Marketing",
+                    "description": "Sales through affiliate marketing channels"
+                },
+                {
+                    "name": "Direct Sales",
+                    "description": "Sales through direct interaction with customers"
+                }
+            ]
+        }
+    ],
+    "Customer": [
+        {
+          "userDetails": {
+            "name": "Aarav Patel",
+            "email": "aarav.patel@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1992-08-15",
+            "username": "aarav_patel_customer",
+            "password": "customerpass17",
+            "userType": "Customer",
+            "phoneNumber": "9988776655"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Isha Sharma",
+            "email": "isha.sharma@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1987-04-25",
+            "username": "isha_sharma_customer",
+            "password": "customerpass18",
+            "userType": "Customer",
+            "phoneNumber": "6655443322"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Vivaan Kumar",
+            "email": "vivaan.kumar@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1990-12-08",
+            "username": "vivaan_kumar_customer",
+            "password": "customerpass19",
+            "userType": "Customer",
+            "phoneNumber": "7778889999"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Ananya Singh",
+            "email": "ananya.singh@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1995-06-20",
+            "username": "ananya_singh_customer",
+            "password": "customerpass20",
+            "userType": "Customer",
+            "phoneNumber": "1122334455"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Arjun Gupta",
+            "email": "arjun.gupta@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1988-02-10",
+            "username": "arjun_gupta_customer",
+            "password": "customerpass21",
+            "userType": "Customer",
+            "phoneNumber": "1234567890"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Saisha Mishra",
+            "email": "saisha.mishra@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1993-11-15",
+            "username": "saisha_mishra_customer",
+            "password": "customerpass22",
+            "userType": "Customer",
+            "phoneNumber": "9876543210"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Rahul Kapoor",
+            "email": "rahul.kapoor@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1986-09-30",
+            "username": "rahul_kapoor_customer",
+            "password": "customerpass23",
+            "userType": "Customer",
+            "phoneNumber": "5556667777"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Kavya Sharma",
+            "email": "kavya.sharma@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1994-03-18",
+            "username": "kavya_sharma_customer",
+            "password": "customerpass24",
+            "userType": "Customer",
+            "phoneNumber": "7788990011"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Rohan Verma",
+            "email": "rohan.verma@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1991-07-05",
+            "username": "rohan_verma_customer",
+            "password": "customerpass25",
+            "userType": "Customer",
+            "phoneNumber": "5544332211"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Avni Patel",
+            "email": "avni.patel@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1989-12-20",
+            "username": "avni_patel_customer",
+            "password": "customerpass26",
+            "userType": "Customer",
+            "phoneNumber": "1122334455"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Yuvan Singh",
+            "email": "yuvan.singh@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1996-05-12",
+            "username": "yuvan_singh_customer",
+            "password": "customerpass27",
+            "userType": "Customer",
+            "phoneNumber": "9988776655"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Ishita Gupta",
+            "email": "ishita.gupta@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1992-10-25",
+            "username": "ishita_gupta_customer",
+            "password": "customerpass28",
+            "userType": "Customer",
+            "phoneNumber": "1234567890"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Aarav Malhotra",
+            "email": "aarav.malhotra@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1987-06-15",
+            "username": "aarav_malhotra_customer",
+            "password": "customerpass29",
+            "userType": "Customer",
+            "phoneNumber": "7778889999"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Siya Reddy",
+            "email": "siya.reddy@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1993-01-10",
+            "username": "siya_reddy_customer",
+            "password": "customerpass30",
+            "userType": "Customer",
+            "phoneNumber": "6655443322"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Vihaan Kapoor",
+            "email": "vihaan.kapoor@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1988-08-22",
+            "username": "vihaan_kapoor_customer",
+            "password": "customerpass31",
+            "userType": "Customer",
+            "phoneNumber": "9988776655"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Anika Kumar",
+            "email": "anika.kumar@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1994-04-05",
+            "username": "anika_kumar_customer",
+            "password": "customerpass32",
+            "userType": "Customer",
+            "phoneNumber": "1122334455"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Kabir Singh",
+            "email": "kabir.singh@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1991-11-18",
+            "username": "kabir_singh_customer",
+            "password": "customerpass33",
+            "userType": "Customer",
+            "phoneNumber": "1234567890"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Myra Sharma",
+            "email": "myra.sharma@example.com",
+            "gender": "Female",
+            "dateOfBirth": "1986-07-30",
+            "username": "myra_sharma_customer",
+            "password": "customerpass34",
+            "userType": "Customer",
+            "phoneNumber": "9876543210"
+          }
+        },
+        {
+          "userDetails": {
+            "name": "Aryan Verma",
+            "email": "aryan.verma@example.com",
+            "gender": "Male",
+            "dateOfBirth": "1995-02-15",
+            "username": "aryan_verma_customer",
+            "password": "customerpass35",
+            "userType": "Customer",
+            "phoneNumber": "5556667777"
+          }
+        }
+      ]
+}
